@@ -1,0 +1,7 @@
+:host {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  width: 100vw;
+  background-color: rgb(228, 242, 249);
+}
